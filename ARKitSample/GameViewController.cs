@@ -94,7 +94,7 @@ namespace ARKitSample
 		{
 			return UIInterfaceOrientationMask.All;
 		}
-		#endregion
+		
 
 
         public override void TouchesBegan(NSSet touches, UIEvent evt)
